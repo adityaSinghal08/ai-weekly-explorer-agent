@@ -1,0 +1,12 @@
+[project]
+name = "article-explorer"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "langchain>=1.2.10",
+    "langchain-community>=0.4.1",
+    "openai>=2.23.0",
+    "scrapingant-client>=2.1.0",
+]
